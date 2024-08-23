@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there💙
+## I'm Anna Vitória
+ - *I really like anime*
+- *I love the color orange it's my favorite*
 <!--
 **AnnaUzumaki/AnnaUzumaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
